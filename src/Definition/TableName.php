@@ -2,7 +2,7 @@
 
 namespace Flyokai\MagentoDto\Definition;
 
-enum TableName: string implements \Flyokai\ServiceData\TableName
+enum TableName: string implements \Flyokai\DataMate\TableName
 {
     case CatalogCategoryEntity = 'catalog_category_entity';
     case CatalogCategoryProduct = 'catalog_category_product';
