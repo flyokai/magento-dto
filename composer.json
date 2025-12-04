@@ -1,0 +1,15 @@
+{
+    "name": "flyokai/magento-dto",
+    "description": "Magento dtos, traits, enums",
+    "require": {
+        "flyokai/data-mate": "dev-dev@dev"
+    },
+    "license": [
+        "MIT"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Flyokai\\MagentoDto\\": "src/"
+        }
+    }
+}
