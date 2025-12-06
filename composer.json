@@ -2,7 +2,7 @@
     "name": "flyokai/magento-dto",
     "description": "Magento dtos, traits, enums",
     "require": {
-        "flyokai/data-mate": "dev-dev@dev"
+        "flyokai/data-mate": "^1"
     },
     "license": [
         "MIT"
