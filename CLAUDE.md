@@ -1,5 +1,7 @@
 # flyokai/magento-dto
 
+> User docs → [`README.md`](README.md) · Agent quick-ref → [`CLAUDE.md`](CLAUDE.md) · Agent deep dive → [`AGENTS.md`](AGENTS.md)
+
 Magento-specific DTOs for catalog (products, categories), sales (orders, quotes), inventory, and system configuration.
 
 See [AGENTS.md](AGENTS.md) for detailed module knowledge.

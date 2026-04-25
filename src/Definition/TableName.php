@@ -66,10 +66,6 @@ enum TableName: string implements \Flyokai\DataMate\TableName
     case Store = 'store';
     case StoreGroup = 'store_group';
     case StoreWebsite = 'store_website';
-    case UrlkeyIndex = 'urapidflow_urlkey_index';
-    case RapidflowProfile = 'urapidflow_profile';
-    case UdropshipVendorProduct = 'udropship_vendor_product';
-    case UdmultiTierPrice = 'udmulti_tier_price';
 
     public function value(): string
     {
