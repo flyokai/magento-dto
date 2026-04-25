@@ -1,5 +1,7 @@
 # flyokai/magento-dto
 
+> User docs → [`README.md`](README.md) · Agent quick-ref → [`CLAUDE.md`](CLAUDE.md) · Agent deep dive → [`AGENTS.md`](AGENTS.md)
+
 Magento-specific DTOs, enums, and container classes for catalog, sales, and inventory data.
 
 ## Key Abstractions
