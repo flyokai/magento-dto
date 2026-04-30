@@ -1,10 +1,9 @@
 <?php
 
-namespace Flyokai\MagentoDto\Sales;
+namespace Flyokai\MagentoDto\Sales\Order;
 
 use Flyokai\DataMate\GreyData;
 use Flyokai\DataMate\Helper\GreyDataTrait;
-use Flyokai\MagentoDto\Sales\Order\ItemJar;
 
 class Order implements GreyData
 {

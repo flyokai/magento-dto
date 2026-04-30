@@ -1,6 +1,6 @@
 <?php
 
-namespace Flyokai\MagentoDto\Sales;
+namespace Flyokai\MagentoDto\Sales\Order;
 
 use Flyokai\DataMate\Helper\DtoTrait;
 
@@ -9,7 +9,7 @@ class OrderHusk
     use DtoTrait;
 
     public function __construct(
-        public readonly \Flyokai\MagentoDto\Sales\Order $order,
+        public readonly Order $order,
         public readonly array                            $isSeparatePoFlags,
         public readonly array                            $isSeparateShipmentFlags,
         public readonly array                            $isShipSeparatelyFlags,
